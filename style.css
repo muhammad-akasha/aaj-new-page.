@@ -1,0 +1,190 @@
+.fa-solid,
+.fas {
+  font-size: 33px;
+  font-weight: 900;
+}
+hr {
+  border: 2px solid;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  width: 720px;
+  height: 172px;
+  margin-left: 180px;
+}
+.logo1 {
+  font-style: italic;
+  margin-top: 30px;
+  margin-left: 200px;
+  width: 300px;
+  height: 100px;
+}
+.img {
+  display: flex;
+  width: 80px;
+  height: 130px;
+}
+.logo2 {
+  font-style: italic;
+  margin-left: 400px;
+  width: 300px;
+  height: 100px;
+}
+.logo3 {
+  font-style: italic;
+  margin-top: 30px;
+  margin-left: 400px;
+  width: 300px;
+  height: 100px;
+}
+.eng {
+  font-style: italic;
+  text-decoration: underline;
+}
+.saifer {
+  font-style: italic;
+  text-decoration: underline;
+}
+.women {
+  font-style: italic;
+}
+.nav {
+  margin-left: 130px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+  margin-left: 180px;
+  width: 935px;
+  height: 40px;
+  font-size: 100px;
+}
+.nav1 {
+  width: 90px;
+  height: 50px;
+  font-size: 25px;
+  border-right: 1px solid black;
+}
+.nav2 {
+  width: 100px;
+  height: 50px;
+  font-size: 25px;
+  border-right: 1px solid black;
+}
+.nav3 {
+  width: 70px;
+  height: 50px;
+  font-size: 25px;
+  border-right: 1px solid black;
+}
+.nav4 {
+  width: 90px;
+  height: 50px;
+  font-size: 25px;
+  border-right: 1px solid black;
+}
+.nav5 {
+  width: 70px;
+  height: 50px;
+  font-size: 25px;
+  border-right: 1px solid black;
+}
+.nav6 {
+  width: 60px;
+  height: 50px;
+  font-size: 25px;
+  border-right: 1px solid black;
+}
+.nav7 {
+  width: 100px;
+  height: 50px;
+  font-size: 25px;
+  border-right: 1px solid black;
+}
+.footer {background-color: rgb(8, 58, 102);
+  ;color:black;
+  padding-top: 40px;
+  width: 100%;
+  height: 120px;
+}
+.fa-brands,
+.fab {
+  font-weight: 400;
+  font-size: 55px;
+  margin-left: 30px;
+}
+.info {
+  font-size: 40px;
+  text-transform: capitalize;
+  display: flex;
+  margin-top: -39px;
+  justify-content: space-evenly;
+  margin-left: 450px;
+}
+.content {
+  width: 680px;
+  height: 50px;
+  display: flex;
+}
+iframe {
+  width: 100%;
+  height: 700px;
+}
+.end {
+  margin-left: 30px;
+  margin-top: 25px;
+}
+.box1{width: 500px;height: 300px;margin-right: 22px}
+.box2{width: 500px;height: 300px;margin-right: 22px}
+.box3{width: 500px;height: 300px;margin-right: 22px}
+.box4{width:500px;height: 300px;margin-right: 22px}
+.box{display: flex;width: 18px;height: 400px;justify-content: space-between}
+.img1{width: 295px;height: 294px;}
+.img2{width: 295px;height: 294px;
+}
+.img3{width: 295px;height: 294px;}
+.img4{width: 295px;height: 294px;}
+.new{display: flex;width: 18px;height: 400px;justify-content: space-between}
+.box5{width: 500px;height: 300px;margin-right: 22px}
+.box6{width: 500px;height: 300px;margin-right: 22px}
+
+.box7{width: 500px;height: 300px;margin-right: 22px}
+
+.box8{width: 500px;height: 300px;margin-right: 22px}
+.img5{width: 295px;height: 294px;}
+.img6{width: 295px;height: 294px;}
+
+.img7{width: 295px;height: 294px;}
+.img8{width: 295px;height: 294px;}
+.new0{ width: 100%;height:500px;display: flex;background: white;justify-content: space-between}
+.sal{width: 250px;height: 250px}
+.was{ width: 630px;height: 400px;}
+.holly{width: 250px;height: 250px}
+.a{width: 250px;height: 250px}
+.b{width: 630px;height: 500px}
+.c{width: 250px;height: 250px}
+.newz{ width: 100%;height:500px;display: flex;background: white;justify-content: space-between}
+.newz1{width: 250px;height: 250px}
+.newz2{width: 630px;height: 500px}
+.newz3{width: 250px;height: 250px}
+.cimg1{width: 250px;height: 250px}
+.cimg2{
+  width: 630px;height: 400px;
+}
+.cimg3{width: 250px;height: 250px}
+
+
+.newz0{display: flex;width: 18px;height: 400px;justify-content: space-between}
+.nimg1{width: 295px;height: 294px;}
+.nimg2{width: 295px;height: 294px;
+}
+.nimg3{width: 295px;height: 294px;}
+.nimg4{width: 295px;height: 294px;}
+.newz01{width: 500px;height: 300px;margin-right: 22px}
+.newz02{width: 500px;height: 300px;margin-right: 22px}
+
+.newz03{width: 500px;height: 300px;margin-right: 22px}
+
+.newz04{width: 500px;height: 300px;margin-right: 22px}
